@@ -1,5 +1,5 @@
-#to run 
-1.download or clone this file (client and backend)
+##to run 
+#1.download or clone this file (client and backend)
 2.after use vs code
 3.individually run both the file backend and client
 4.open client integrated terminal and use command "npm i"
